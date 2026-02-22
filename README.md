@@ -1,11 +1,11 @@
-Feature Engineering
+# Feature Engineering
 
 This lab contains completed exercises from the Kaggle Mini Course on Feature Engineering.
 
 Completed Sections:
-	1.	What is Feature Engineering
-	2.	Mutual Information
-	3.	Creating Features
+	- What is Feature Engineering
+	- Mutual Information
+	- Creating Features
 
 Course Link:
 https://www.kaggle.com/learn/feature-engineering
